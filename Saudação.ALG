@@ -2,16 +2,15 @@ Algoritmo "Saudação"
 
 Var
 // Seção de Declarações das variáveis 
-nome, sobrenome: caractere
+nome: caractere
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-escreva("Digite o seu nome: ")
+escreva("Qual é o seu nome? ")
 leia(nome)
 
-escreva("Digite o seu sobrenome: ")
-leia(sobrenome)
+escreva("Seja bem vindo(a), ", nome)
 
-escreva("Seja bem-vindo(a), ", nome, " ", sobrenome)
+
 
 Fimalgoritmo
