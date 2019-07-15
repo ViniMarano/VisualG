@@ -5,10 +5,13 @@
 Aqui irei colocar todos os códigos praticados na **UC09 - Lógica de Programação**, que estudei no Senac VPR.
 
 ## A Tela Principal do VisualG 
-![Tela](https://user-images.githubusercontent.com/52283797/60517106-71934000-9cb5-11e9-9b88-0fa1803dc732.png)
+![Tela](https://user-images.githubusercontent.com/52283797/61194670-60750680-a699-11e9-8af9-56878d3830ef.jpg)
+
 
 ## Os menus do VisualG 
 
 - Arquivo
 - Editar
 - Manutenção
+
+## Utilidade do VisualG
