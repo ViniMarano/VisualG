@@ -12,12 +12,15 @@ Aqui irei colocar todos os códigos praticados na **UC09 - Lógica de Programaç
 
 * **Barra de Tarefas**: A barra de tarefas contém os principais comandos do VisuAlg.
 
-**Quadro de Variáveis**: É formado por uma grade onde é mostrado o escopo e o valor de cada variável.
+* **Quadro de Variáveis**: É formado por uma grade onde é mostrado o escopo e o valor de cada variável.
 
-**Simulador de Saída**: Mostra como foi a última execução de código no programa.
+* **Simulador de Saída**: Mostra como foi a última execução de código no programa.
 
-**Barra de Status**: Na barra de status o usuário pode ver em qual linha e coluna o cursor está posicionado, além de também ser avisado caso o código tenha sido alterado.
+* **Barra de Status**: Na barra de status o usuário pode ver em qual linha e coluna o cursor está posicionado, além de também ser avisado caso o código tenha sido alterado.
 
-## Principal Função
+## Utilizando o VisualG
+O VisuAlg é um programa que edita, interpreta e executa algoritmos com uma linguagem próxima do português estruturado, e funciona como se fosse um programa normal de computador.
+Ele permite o exercício prático dos conhecimentos teóricos em um ambiente próximo da realidade, e por isso é super indicado para quem está começando a trabalhar com a programação de softwares
 
-## Utilidade do VisualG
+**Exemplo** 
+
