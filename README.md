@@ -19,7 +19,7 @@ Aqui irei colocar todos os códigos praticados na **UC09 - Lógica de Programaç
 * **Barra de Status**: Na barra de status o usuário pode ver em qual linha e coluna o cursor está posicionado, além de também ser avisado caso o código tenha sido alterado.
 
 ## Utilizando o VisualG
-O VisuAlg é um programa que edita, interpreta e executa algoritmos com uma linguagem próxima do português estruturado, e funciona como se fosse um programa normal de computador.
+O VisualG é um programa que edita, interpreta e executa algoritmos com uma linguagem próxima do português estruturado, e funciona como se fosse um programa normal de computador.
 
 Ele permite o exercício prático dos conhecimentos teóricos em um ambiente próximo da realidade, e por isso é super indicado para quem está começando a trabalhar com a programação de softwares
 
