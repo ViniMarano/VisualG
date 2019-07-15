@@ -23,5 +23,11 @@ O VisuAlg é um programa que edita, interpreta e executa algoritmos com uma ling
 
 Ele permite o exercício prático dos conhecimentos teóricos em um ambiente próximo da realidade, e por isso é super indicado para quem está começando a trabalhar com a programação de softwares
 
-**Exemplo** 
+**Exemplo:**
+
+A imagem abaixo, mostra um algoritmo de Mod criado para rodar no VisualG.
+
+![Mod](https://user-images.githubusercontent.com/52283797/61196186-345e8300-a6a3-11e9-8255-14de015a73ff.jpg)
+
+**Algoritmo Mod - Executado** 
 

@@ -23,6 +23,6 @@ escreval("O quociente da divisão dos valores informados é: ", quoc)
 
 escreval("==================")
 
-escreval("O resto da divisão dos valores informdos é: ", resto)
+escreval("O resto da divisão dos valores informados é: ", resto)
 
 Fimalgoritmo
