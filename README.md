@@ -9,7 +9,8 @@ Aqui irei colocar todos os códigos praticados na **UC09 - Lógica de Programaç
 
 ## A Tela Principal do VisualG 
 ![Tela](https://user-images.githubusercontent.com/52283797/61194670-60750680-a699-11e9-8af9-56878d3830ef.jpg)
-**Barra de Tarefas**: A barra de tarefas contém os principais comandos do VisuAlg.
+
+* **Barra de Tarefas**: A barra de tarefas contém os principais comandos do VisuAlg.
 
 **Quadro de Variáveis**: É formado por uma grade onde é mostrado o escopo e o valor de cada variável.
 
