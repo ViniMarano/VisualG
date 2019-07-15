@@ -20,6 +20,7 @@ Aqui irei colocar todos os códigos praticados na **UC09 - Lógica de Programaç
 
 ## Utilizando o VisualG
 O VisuAlg é um programa que edita, interpreta e executa algoritmos com uma linguagem próxima do português estruturado, e funciona como se fosse um programa normal de computador.
+
 Ele permite o exercício prático dos conhecimentos teóricos em um ambiente próximo da realidade, e por isso é super indicado para quem está começando a trabalhar com a programação de softwares
 
 **Exemplo** 
