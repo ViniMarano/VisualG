@@ -4,14 +4,19 @@
 
 Aqui irei colocar todos os códigos praticados na **UC09 - Lógica de Programação**, que estudei no Senac VPR.
 
+## Sobre o VisualG
+É uma ferramenta na qual pode-se simular pseudocódigos, podemos dizer que é a interpretação de uma linguagem algorítmica, utilizando comandos e instruções em Português para representar as ações dos algoritmos, também conhecida como Portugol ou Português Estruturado.
+
 ## A Tela Principal do VisualG 
 ![Tela](https://user-images.githubusercontent.com/52283797/61194670-60750680-a699-11e9-8af9-56878d3830ef.jpg)
+Barra de Tarefas: A barra de tarefas contém os principais comandos do VisuAlg.
 
+Quadro de Variáveis: É formado por uma grade onde é mostrado o escopo e o valor de cada variável.
 
-## Os menus do VisualG 
+Simulador de Saída: Mostra como foi a última execução de código no programa.
 
-- Arquivo
-- Editar
-- Manutenção
+Barra de Status: Na barra de status o usuário pode ver em qual linha e coluna o cursor está posicionado, além de também ser avisado caso o código tenha sido alterado.
+
+## Principal Função
 
 ## Utilidade do VisualG
