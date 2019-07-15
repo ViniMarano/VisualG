@@ -31,3 +31,4 @@ A imagem abaixo, mostra um algoritmo de Mod criado para rodar no VisualG.
 
 **Algoritmo Mod - Executado** 
 
+![Executado](https://user-images.githubusercontent.com/52283797/61196291-e8600e00-a6a3-11e9-8bae-1fd8006ca2b2.jpg)
